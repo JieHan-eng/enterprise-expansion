@@ -1,0 +1,12 @@
+{
+  "name": "@raspberry-coffee/enterprise-expansion",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node EnterprisePortalOrchestrator.js",
+    "analyze": "node BusinessIntelligenceEngine.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
